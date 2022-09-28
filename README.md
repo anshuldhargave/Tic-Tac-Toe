@@ -4,7 +4,6 @@ It's a Single Player, Tic-Tac_Toe game you can play with computer.
 
 Please run main.py file from terminal/command promt.
 
-It's written in Python.
 
 Currently, there are two users. While playing you can use any one of them.
 User1/Password: Anshul/123
